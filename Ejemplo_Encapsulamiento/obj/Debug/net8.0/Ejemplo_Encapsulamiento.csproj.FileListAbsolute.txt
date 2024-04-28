@@ -1,0 +1,15 @@
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\bin\Debug\net8.0\Ejemplo_Encapsulamiento.exe
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\bin\Debug\net8.0\Ejemplo_Encapsulamiento.deps.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\bin\Debug\net8.0\Ejemplo_Encapsulamiento.runtimeconfig.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\bin\Debug\net8.0\Ejemplo_Encapsulamiento.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\bin\Debug\net8.0\Ejemplo_Encapsulamiento.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.AssemblyInfoInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.AssemblyInfo.cs
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.sourcelink.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\refint\Ejemplo_Encapsulamiento.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\Ejemplo_Encapsulamiento.genruntimeconfig.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Encapsulamiento\obj\Debug\net8.0\ref\Ejemplo_Encapsulamiento.dll
