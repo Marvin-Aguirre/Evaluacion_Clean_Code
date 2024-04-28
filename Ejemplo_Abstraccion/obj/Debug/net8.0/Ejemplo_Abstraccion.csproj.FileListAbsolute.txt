@@ -1,0 +1,14 @@
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\bin\Debug\net8.0\Ejemplo_Abstraccion.exe
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\bin\Debug\net8.0\Ejemplo_Abstraccion.deps.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\bin\Debug\net8.0\Ejemplo_Abstraccion.runtimeconfig.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\bin\Debug\net8.0\Ejemplo_Abstraccion.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\bin\Debug\net8.0\Ejemplo_Abstraccion.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.AssemblyInfoInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.AssemblyInfo.cs
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\refint\Ejemplo_Abstraccion.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\Ejemplo_Abstraccion.genruntimeconfig.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Abstraccion\obj\Debug\net8.0\ref\Ejemplo_Abstraccion.dll
