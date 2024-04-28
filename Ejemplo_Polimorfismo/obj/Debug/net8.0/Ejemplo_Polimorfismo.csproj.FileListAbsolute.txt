@@ -1,0 +1,15 @@
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\bin\Debug\net8.0\Ejemplo_Polimorfismo.exe
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\bin\Debug\net8.0\Ejemplo_Polimorfismo.deps.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\bin\Debug\net8.0\Ejemplo_Polimorfismo.runtimeconfig.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\bin\Debug\net8.0\Ejemplo_Polimorfismo.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\bin\Debug\net8.0\Ejemplo_Polimorfismo.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.AssemblyInfoInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.AssemblyInfo.cs
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.sourcelink.json
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\refint\Ejemplo_Polimorfismo.dll
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.pdb
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\Ejemplo_Polimorfismo.genruntimeconfig.cache
+D:\Documentos\Documentos\EXAMEN CLEAN CODE\Ejemplo_Polimorfismo\obj\Debug\net8.0\ref\Ejemplo_Polimorfismo.dll
