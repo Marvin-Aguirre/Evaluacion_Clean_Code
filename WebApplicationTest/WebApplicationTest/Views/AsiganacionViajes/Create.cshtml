@@ -1,0 +1,73 @@
+﻿@model WebApplicationTest.Models.AsiganacionViaje
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>AsiganacionViaje</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="IdAsiganacion" class="control-label"></label>
+                <input asp-for="IdAsiganacion" class="form-control" />
+                <span asp-validation-for="IdAsiganacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DescripcionRuta" class="control-label"></label>
+                <input asp-for="DescripcionRuta" class="form-control" />
+                <span asp-validation-for="DescripcionRuta" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Fecha" class="control-label"></label>
+                <input asp-for="Fecha" class="form-control" />
+                <span asp-validation-for="Fecha" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdEmpleado" class="control-label"></label>
+                <select asp-for="IdEmpleado" class ="form-control" asp-items="ViewBag.IdEmpleado"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdRuta" class="control-label"></label>
+                <select asp-for="IdRuta" class ="form-control" asp-items="ViewBag.IdRuta"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdBus" class="control-label"></label>
+                <select asp-for="IdBus" class ="form-control" asp-items="ViewBag.IdBus"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="IdHorario" class="control-label"></label>
+                <select asp-for="IdHorario" class ="form-control" asp-items="ViewBag.IdHorario"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="AsientosOcupados" class="control-label"></label>
+                <input asp-for="AsientosOcupados" class="form-control" />
+                <span asp-validation-for="AsientosOcupados" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AsientosDisponibles" class="control-label"></label>
+                <input asp-for="AsientosDisponibles" class="form-control" />
+                <span asp-validation-for="AsientosDisponibles" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UsuarioId" class="control-label"></label>
+                <select asp-for="UsuarioId" class ="form-control" asp-items="ViewBag.UsuarioId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

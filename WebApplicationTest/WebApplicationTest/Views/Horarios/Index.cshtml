@@ -1,0 +1,47 @@
+﻿@model IEnumerable<WebApplicationTest.Models.Horario>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdHorario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.InicioHorario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FinHorario)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.IdHorario)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.InicioHorario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FinHorario)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdHorario">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdHorario">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdHorario">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
